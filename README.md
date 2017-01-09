@@ -1,10 +1,10 @@
-# directadmin-slave-install
+# directadmin-directslave-install
 
 ## Description
 
-Simple bash script to fully install and configure DirectSlave nameserver on a fresh Centos6 server.
+Simple bash script to fully install and configure **DirectSlave** nameserver on a fresh Centos6 server.
 
-Originally created by user jordivn on the Direct Admin forum: 
+Originally created by user **jordivn** on the Direct Admin forum: 
 
 https://forum.directadmin.com/showthread.php?t=43924&page=22&p=278112#post278112
 
