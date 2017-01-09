@@ -16,6 +16,6 @@ https://forum.directadmin.com/showthread.php?t=43924&page=22&p=278112#post278112
 
 ## Todo
 
-[] - Identify and update script with patches / improvements mentioned in the DirectSlave thread
-[] - Update for Centos7
-[] - Install letsencrypt, generate SSL certificate, enable SSL for DirectSlave
+- [ ] Identify and update script with patches / improvements mentioned in the DirectSlave thread
+- [ ] Update for Centos7
+- [ ] Install letsencrypt, generate SSL certificate, enable SSL for DirectSlave
